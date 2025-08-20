@@ -135,7 +135,8 @@ p {
   right: 0;
 }
 .google-btn {
-  width: 100%;
+  width: 60%;
+  margin-left: 264px;
   padding: 10px;
   background: #fff;
   color: #b7b7b7;
@@ -162,4 +163,5 @@ p {
   align-items: center;
   gap: 5px;
 }
+
 
